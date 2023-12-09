@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "65364738645",
+    "project_id": "news-f5977",
+    "storage_bucket": "news-f5977.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65364738645:android:993f92c0c123a47f174adc",
+        "android_client_info": {
+          "package_name": "com.example.gamingnews"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS1s_WalgpFC0wiKMLGkgi0B2uF815rks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
